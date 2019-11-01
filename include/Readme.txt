@@ -1,0 +1,1 @@
+This directory is composed of c headers for function definitions.
